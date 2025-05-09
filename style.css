@@ -59,7 +59,7 @@
 }
 
 body {
-    background-color: #FFDAB9;
+    background-color: #dc6bed;
 }
 
 img {
@@ -76,7 +76,7 @@ img {
 .area {
     text-align: center;
     font-size: 70px;
-    color: #C4515C;
+    color: #42084b;
     letter-spacing: -7px;
     font-weight: 700;
     text-transform: uppercase;
@@ -116,7 +116,7 @@ img {
 
 .type-wrap {
     font-size: 25px;
-    color: #C4515C;
+    color: #42084b;
 
 }
 
